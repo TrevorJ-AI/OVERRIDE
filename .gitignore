@@ -12,3 +12,9 @@ alarm.mp3
 Thumbs.db
 desktop.ini
 .vscode/
+
+# Android build outputs / signing key (regenerate locally with android/build.sh)
+android/gen/
+android/obj/
+android/bin/
+android/*.keystore
